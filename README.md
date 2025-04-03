@@ -14,4 +14,4 @@ Meu nome é Leonardo Pacini, tenho 18 anos de idade e atualmente sou <strong>Des
 
 ##
 
-<a href="www.linkedin.com/in/leonardo-pacini-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-pacini-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
